@@ -6,6 +6,6 @@ xhofe/alist:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 elasticsearch:7.7.0
 kibana:7.7.0
-grafana/grafana
+grafana/grafana:8.2.7
 prom/node-exporter
-prom/prometheus
+prom/prometheus:2.26
